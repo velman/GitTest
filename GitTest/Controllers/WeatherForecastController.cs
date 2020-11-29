@@ -35,5 +35,10 @@ namespace GitTest.Controllers
             })
             .ToArray();
         }
+
+        private void Featuchere1Test()
+        {
+            // checkin test
+        }
     }
 }
