@@ -41,6 +41,7 @@ namespace GitTest.Controllers
             // checkin test
             // master updated
             int a = 1;
+            int b = 2;
         }
     }
 }
