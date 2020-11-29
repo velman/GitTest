@@ -39,6 +39,8 @@ namespace GitTest.Controllers
         private void Featuchere1Test()
         {
             // checkin test
+            // master updated
+            int a = 1;
             int b = 2;
         }
     }
